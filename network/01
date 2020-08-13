@@ -1,1 +1,2 @@
+#!/bin/sh
 ip -o link show | awk -F': ' '{print $2}'

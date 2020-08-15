@@ -3,7 +3,6 @@
 ### 01
 https://superuser.com/questions/203272/list-only-the-device-names-of-all-available-network-interfaces
 
-
 ### 02
 https://askubuntu.com/questions/560412/displaying-ip-address-on-eth0-interface
 
@@ -33,6 +32,8 @@ https://help.nexcess.net/77289-ip-management/how-to-find-the-ip-address-of-a-web
 https://www.pcwdld.com/traceroute
 
 ### 11
+https://whatismyipaddress.com/nat
+https://en.wikipedia.org/wiki/Network_address_translation
 
 ### 12
 https://www.cyberciti.biz/faq/linux-find-out-dhcp-server-ip-address/

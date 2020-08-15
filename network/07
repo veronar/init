@@ -1,0 +1,2 @@
+#!/bin/sh
+dig slash16.org 13.224.69.83

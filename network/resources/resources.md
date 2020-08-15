@@ -17,3 +17,12 @@ https://www.unixmen.com/how-to-find-default-gateway-in-linux/
 ### 05
 https://osxdaily.com/2010/06/01/how-to-find-a-websites-ip-address/
 
+### 06
+https://www.cyberciti.biz/faq/how-to-find-out-what-my-dns-servers-address-is/
+
+### 07
+https://osxdaily.com/2010/06/01/how-to-find-a-websites-ip-address/
+
+### 08
+
+

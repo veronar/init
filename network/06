@@ -1,0 +1,13 @@
+# 06
+
+# Task:
+Get the complete path of the file that contains the IP address of the DNS server you’re using
+
+# Command:
+#!/bin/sh
+cat /etc/resolv.conf
+
+# Deduction:
+DNS is an acronym for Domain Name System. DNS is key to many network services run on the Internet or LAN (Local Area Network)
+Almost all traffic on the Internets depends upon the DNS servers. Most ISP (Internet Service Provider) have their caching DNS server to reduce network load.
+Under Linux, FreeBSD and all UNIX-like operating systems you have a file called /etc/resolv.conf. It is often known as the resolver configuration file.

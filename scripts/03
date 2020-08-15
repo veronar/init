@@ -1,0 +1,5 @@
+#!/bin/sh
+echo "Hello World"
+echo "Pizza is nice"
+sum=42
+echo "Some maths: 21 + 21 = $sum"

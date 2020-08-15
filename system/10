@@ -1,0 +1,5 @@
+#!/bin/sh
+lsblk
+
+# OR
+# sudo fdisk -l

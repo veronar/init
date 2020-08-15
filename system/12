@@ -1,0 +1,2 @@
+#!/bin/sh
+sudo du -h --max-depth=1 /var

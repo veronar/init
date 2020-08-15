@@ -1,0 +1,7 @@
+# System 23
+
+# Task:
+Explain how connect yourself as new user. (With graphic session and ssh session)
+
+# Deduction:
+Start VM and login. You would then need to edit the ~/.ssh/authorized_keys file in the VM. After that connect with ssh using the IP address of the VM & connect with the ssh command.

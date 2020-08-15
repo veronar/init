@@ -1,0 +1,10 @@
+# System 01
+
+# Task:
+In what file can you find the installed version of your Debian?
+
+# Deduction:
+The /etc/os-release file conatins system information
+$ cat /etc/os-release
+
+Also an be found in /etc/issue

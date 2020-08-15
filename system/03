@@ -1,0 +1,8 @@
+# System 03
+
+# Task:
+What file has to be modified to make it permanent?
+(The renaming of the system)
+
+# Deduction:
+In order to permanently & successfully change the host name the /etc/hostname file & /etc/hosts files must also be editted to reflect the updated name.

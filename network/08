@@ -1,6 +1,12 @@
+# 08
 
+# Task:
+Find the provider of slash16.org
+
+# Deduction:
 Whois is a simple, yet powerful, tool that allows you to see information about a specific domain name or IP address. You can use it to see things like contact information, nameservers, and domain registration information. Whois is an older core Unix utility, so it's available on every distribution.
 
+# Commands:
 $ sudo apt install whois
 $ whois 13.35.198.68
 $ whois slash16.org

@@ -24,5 +24,24 @@ https://www.cyberciti.biz/faq/how-to-find-out-what-my-dns-servers-address-is/
 https://osxdaily.com/2010/06/01/how-to-find-a-websites-ip-address/
 
 ### 08
+https://serverfault.com/questions/196966/given-a-url-how-do-i-find-the-domain-registrar-and-the-web-host
 
+### 09
+https://help.nexcess.net/77289-ip-management/how-to-find-the-ip-address-of-a-website-or-server
 
+### 10
+https://www.pcwdld.com/traceroute
+
+### 11
+
+### 12
+https://www.cyberciti.biz/faq/linux-find-out-dhcp-server-ip-address/
+
+### 13
+https://www.liquidweb.com/kb/reverse-dns-lookup/
+
+### 14
+https://www.tecmint.com/setup-local-dns-using-etc-hosts-file-in-linux/
+
+### 15
+https://vitux.com/linux-hosts-file/

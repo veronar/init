@@ -1,0 +1,5 @@
+# Command:
+$ dig -x  172.28.128.1
+
+# Output:
+DESKTOP-7DHI8B5.mshome.net.

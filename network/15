@@ -1,0 +1,19 @@
+# 15
+
+# Task:
+Make the intra.42.fr address reroute to 46.19.122.85
+
+# Deduction:
+This can be done by adding a new entry to the `/etc/hosts`.
+To do this, we need to define the IP and the domain in the entry.
+The first column contains the IP address and the second column contains the url.
+
+$ sudo vim /etc/hosts
+
+add the following:
+46.19.122.85	 intra.42.fr
+
+Save & quit
+
+Can test with
+$ traceroute intra.42.fr

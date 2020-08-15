@@ -1,0 +1,7 @@
+# 14
+
+# Task:
+What file contains the local DNS entries?
+
+# Deduction:
+The /etc/hosts is an operating system file that translate hostnames or domain names to IP addresses.

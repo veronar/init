@@ -1,0 +1,2 @@
+#!/bin/sh
+ip addr | grep "inet\b" | awk '{print $2}'

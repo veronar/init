@@ -1,2 +1,2 @@
 #!/bin/sh
-ip r
+ip r | grep default | awk '{print $4}'

@@ -6,4 +6,4 @@ What file contains the RSA keys of systems that are authorized to connect via SS
 # Deduction:
 They can be found in the home folder ~/.ssh/authorized_keys
 Can be read with
-cat ~/.ssh/authorized_keys
+$ cat ~/.ssh/authorized_keys

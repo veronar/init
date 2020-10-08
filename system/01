@@ -4,7 +4,11 @@
 In what file can you find the installed version of your Debian?
 
 # Deduction:
-The /etc/os-release file conatins system information
+The /etc/debian_version contains the debian version
+$ cat /etc/debian_version
+
+However, the /etc/os-release file conatins system information
 $ cat /etc/os-release
 
-Also an be found in /etc/issue
+Information can also be found in /etc/issue
+$ cat /etc/issue

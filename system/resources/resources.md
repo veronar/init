@@ -9,11 +9,12 @@ https://www.cyberciti.biz/faq/ubuntu-change-hostname-command/
 ### 03
 https://www.cyberciti.biz/faq/ubuntu-change-hostname-command/
 
-### 04 
+### 04
 https://www.thegeekstuff.com/2011/10/linux-reboot-date-and-time
 
 ### 05
 https://www.cyberciti.biz/faq/howto-start-stop-ssh-server/
+https://www.garron.me/en/linux/sshd-no-hostkeys-available-exiting.html
 
 ### 06
 https://www.cyberciti.biz/faq/howto-start-stop-ssh-server/
@@ -23,6 +24,7 @@ https://stackoverflow.com/questions/6867669/getting-pid-of-sshd
 
 ### 08
 https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server
+https://askubuntu.com/questions/466549/bash-home-user-ssh-authorized-keys-no-such-file-or-directory
 
 ### 09
 https://www.thegeekstuff.com/2009/03/4-ways-to-identify-who-is-logged-in-on-your-linux-system/
@@ -41,6 +43,7 @@ https://www.cyberciti.biz/faq/how-to-check-running-process-in-linux-using-comman
 
 ### 14
 https://www.tecmint.com/run-linux-command-process-in-background-detach-process/
+https://answers.microsoft.com/en-us/windows/forum/windows_10-other_settings-winpc/location-of-syslog-file-in-windows-10-ubuntu-bash/ae40a2d2-005e-4130-b830-d90e768e6fb5?auth=1
 
 ### 15
 https://unix.stackexchange.com/questions/43527/kill-all-background-jobs

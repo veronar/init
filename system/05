@@ -1,2 +1,8 @@
 #!/bin/sh
-service ssh status
+sudo service ssh status
+
+
+# If you get the following output - sshd: no hostkeys available -- exiting.
+# you have to first init the ssh hostkeys with:
+# $ sudo ssh-keygen -A
+# Then try starting the service again

@@ -1,2 +1,6 @@
 #!/bin/sh
 dig slash16.org 13.224.69.83
+
+# According to the marking sheet it wants the same response as 05
+# this can again be dont with nslookup
+# $ nslookup slash16.org

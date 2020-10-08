@@ -4,11 +4,11 @@
 https://superuser.com/questions/203272/list-only-the-device-names-of-all-available-network-interfaces
 
 ### 02
-https://askubuntu.com/questions/560412/displaying-ip-address-on-eth0-interface  
-https://access.redhat.com/sites/default/files/attachments/rh_ip_command_cheatsheet_1214_jcs_print.pdf  
-  
+https://askubuntu.com/questions/560412/displaying-ip-address-on-eth0-interface
+https://access.redhat.com/sites/default/files/attachments/rh_ip_command_cheatsheet_1214_jcs_print.pdf
+
 The slash in IP address:
-https://www.ripe.net/about-us/press-centre/understanding-ip-addressing  
+https://www.ripe.net/about-us/press-centre/understanding-ip-addressing
 
 ### 03
 https://askubuntu.com/questions/560412/displaying-ip-address-on-eth0-interface
@@ -50,3 +50,4 @@ https://www.tecmint.com/setup-local-dns-using-etc-hosts-file-in-linux/
 
 ### 15
 https://vitux.com/linux-hosts-file/
+https://totaluptime.com/reroute-or-redirect-ip-traffic-from-one-data-center-to-another-for-disaster-recovery/

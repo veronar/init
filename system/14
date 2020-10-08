@@ -1,2 +1,8 @@
 #!/bin/sh
 tail -f /var/log/syslog &
+
+# If it returns - tail: cannot open '/var/log/syslog' for reading: No such file or directory
+# tail: no files remaining
+# The logging service is not running and needs to be started:
+# $ service rsyslog status
+# $ sudo service rsyslog start
